@@ -1,2 +1,2 @@
 Hello world!
-I'm doing a git-it tutorial :)
+I'm doing a git-it tutorial
